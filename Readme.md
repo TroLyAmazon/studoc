@@ -3,7 +3,7 @@
 </p>
 
 #
-
+# Đã nâng cấp từ nguồn cũ https://github.com/isanchop/stuhack
 
 Stuack là tiện ích mở rộng của Chrome dành cho www.studocu.com và www.studocu.vn để nhận các tính năng cao cấp miễn phí
 
